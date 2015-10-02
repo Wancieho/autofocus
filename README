@@ -1,4 +1,5 @@
-HTML5 autofocus plugin v0.2*
+#HTML5 autofocus plugin v0.3.0
+
 Copyright (c) 2009, Mike Taylor, http://miketaylr.com
 MIT Licensed: http://www.opensource.org/licenses/mit-license.php
 
@@ -11,7 +12,7 @@ USAGE: $("[autofocus]").autofocus();
 
 Thanks to paul_irish and temp01 for feedback and improvement suggestions.
 
-# Forked
+##Forked
 https://github.com/Wancieho
 
 Forked repository so that plugin can be managed using Bower
