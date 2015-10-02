@@ -8,6 +8,7 @@
     ".gitignore",
     "README.md",
     "bower.json",
+    "package.json",
     "gulpfile.js"
   ],
   "dependencies": {
