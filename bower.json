@@ -1,0 +1,16 @@
+{
+  "name": "jquery-autofocus",
+  "version": "1.0.0",
+  "ignore": [
+    "demo",
+    "node_modules",
+    "source",
+    ".gitignore",
+    "README.md",
+    "bower.json",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "jquery": "1.*"
+  }
+}

@@ -10,3 +10,9 @@ http://www.whatwg.org/specs/web-apps/current-work/multipage/association-of-contr
 USAGE: $("[autofocus]").autofocus();
 
 Thanks to paul_irish and temp01 for feedback and improvement suggestions.
+
+# Forked
+https://github.com/Wancieho
+
+Forked repository so that plugin can be managed using Bower
+Restructured project
